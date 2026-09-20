@@ -1,10 +1,10 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.1.0/tacticalvision-0.1.0.apk",
-  "sha256": "f202b529f5f8a27818dd0e484a3935ccf6e3722963fc5ba9f51500c3b1c1e2ac",
-  "sizeBytes": 23752650,
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.2.0/tacticalvision-0.2.0.apk",
+  "sha256": "42ea4cba1a75eac43cd8f448f1bef1b28a44ce34aaca5831da6bbb85279b0416",
+  "sizeBytes": 23847854,
   "minSdk": 26,
   "publishedAt": "2026-09-21",
-  "releaseNotes": "Prima versione pubblica: tracciamento della pallina, conteggio di scambi e colpi, calibrazione del tavolo a 4 tocchi, velocita' in km/h, heatmap dei rimbalzi e riconoscimento opzionale di dritto e rovescio."
+  "releaseNotes": "Scouting degli avversari e analisi di video gia' girati. Rilevamento della pallina dal 73% al 96% dei fotogrammi, zero falsi positivi, velocita' misurata fra due rimbalzi con il 7% di scarto."
 }
