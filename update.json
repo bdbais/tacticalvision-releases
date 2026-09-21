@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.3.0/tacticalvision-0.3.0.apk",
-  "sha256": "c7f03642e7ccf8d793eb1a4c1d1fc53bf531078ba93dc6393c2713e224ff50e1",
-  "sizeBytes": 23847854,
+  "versionCode": 6,
+  "versionName": "0.3.1",
+  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.3.1/tacticalvision-0.3.1.apk",
+  "sha256": "f92868c2e8bb43fb4cdbde82464043707603ad296a167a10e7e5c7ceba926332",
+  "sizeBytes": 23864238,
   "minSdk": 26,
   "publishedAt": "2026-09-21",
-  "releaseNotes": "Creazione guidata degli avversari: cinque domande, ognuna spiega a cosa serve, tutte saltabili. Versione pensata per il primo giro di prove sul campo."
+  "releaseNotes": "Montaggio automatico: crea una copia del video con i soli scambi, senza i tempi morti. I fotogrammi vengono copiati e non ricodificati, quindi è rapido e non perde qualità."
 }
