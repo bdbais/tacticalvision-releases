@@ -1,10 +1,10 @@
 {
-  "versionCode": 8,
-  "versionName": "0.3.3",
-  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.3.3/tacticalvision-0.3.3.apk",
-  "sha256": "a6cb746e0c3c9950a1518805b54df70db249d3e0c15c7207b8f23f12385082b8",
-  "sizeBytes": 23866114,
+  "versionCode": 9,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.4.0/tacticalvision-0.4.0.apk",
+  "sha256": "f9a0d1b6e36fe7cf427e8c11cc5f47456a1e227130cbce6657756390c262dcb7",
+  "sizeBytes": 24053106,
   "minSdk": 26,
   "publishedAt": "2026-09-21",
-  "releaseNotes": "Icona nuova: la pallina che rimbalza sul tavolo, cioè quello che l'app fa. Supporta anche le icone a tema di Android 13."
+  "releaseNotes": "Correzione importante: il rilevatore scartava la pallina proprio quando si muove, perché la pretendeva tonda mentre una pallina in gioco lascia una scia. Più i colori del tavolo da gara, nomi e data della partita all'importazione, e una diagnosi quando l'analisi non trova nulla."
 }
