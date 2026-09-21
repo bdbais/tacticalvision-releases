@@ -1,10 +1,10 @@
 {
-  "versionCode": 7,
-  "versionName": "0.3.2",
-  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.3.2/tacticalvision-0.3.2.apk",
-  "sha256": "19d1e38ae2ecf86fff222f2b27f89d8ec302b12ac35afe6947c10be00c65d59c",
-  "sizeBytes": 23864238,
+  "versionCode": 8,
+  "versionName": "0.3.3",
+  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.3.3/tacticalvision-0.3.3.apk",
+  "sha256": "a6cb746e0c3c9950a1518805b54df70db249d3e0c15c7207b8f23f12385082b8",
+  "sizeBytes": 23866114,
   "minSdk": 26,
   "publishedAt": "2026-09-21",
-  "releaseNotes": "Il sito del progetto ha il suo indirizzo: tacticalvision.bais.info. Nessuna modifica al motore di analisi."
+  "releaseNotes": "Icona nuova: la pallina che rimbalza sul tavolo, cioè quello che l'app fa. Supporta anche le icone a tema di Android 13."
 }
