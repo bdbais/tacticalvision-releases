@@ -23,9 +23,9 @@ scarica l'APK, ne verifica l'impronta SHA-256 e propone l'installazione.
 
 ```json
 {
-  "versionCode": 11,
-  "versionName": "0.6.0",
-  "apkUrl": "https://github.com/.../tacticalvision-0.6.0.apk",
+  "versionCode": 12,
+  "versionName": "0.7.0",
+  "apkUrl": "https://github.com/.../tacticalvision-0.7.0.apk",
   "sha256": "...",
   "sizeBytes": 23752650,
   "minSdk": 26,
@@ -47,7 +47,7 @@ SHA-1    37:6D:2F:A6:72:E0:30:66:A8:E8:B2:1E:73:F5:D5:11:54:92:88:0A
 ```
 
 ```bash
-apksigner verify --print-certs tacticalvision-0.6.0.apk
+apksigner verify --print-certs tacticalvision-0.7.0.apk
 ```
 
 Se l'impronta è diversa, l'APK non viene da qui: non installarlo.
