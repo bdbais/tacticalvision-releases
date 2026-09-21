@@ -1,10 +1,10 @@
 {
-  "versionCode": 3,
-  "versionName": "0.2.1",
-  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.2.1/tacticalvision-0.2.1.apk",
-  "sha256": "e4a953adccccee4a7c14cc3f4d88a5f60b66b3af125c1c39ea5e015d6c7051cb",
+  "versionCode": 4,
+  "versionName": "0.2.2",
+  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.2.2/tacticalvision-0.2.2.apk",
+  "sha256": "467c2119b0aaf29308c61d4157911054c751dd3699ce7c091186d6e50a357a1c",
   "sizeBytes": 23847854,
   "minSdk": 26,
   "publishedAt": "2026-09-21",
-  "releaseNotes": "Il sito del progetto passa a tacticalvision.bais.info e il link per le donazioni punta a paypal.me/bellizia. Nessuna modifica al motore di analisi."
+  "releaseNotes": "Il sito del progetto risponde su tacticalvision.pages.dev. Il sottodominio tacticalvision.bais.info non era ancora attivo e i link che ci puntavano erano rotti."
 }
