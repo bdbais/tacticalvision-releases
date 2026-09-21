@@ -1,10 +1,10 @@
 {
-  "versionCode": 12,
-  "versionName": "0.7.0",
-  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.7.0/tacticalvision-0.7.0.apk",
-  "sha256": "b4832684830f61b2db029ee04669e34837fddbd40c62c53d08182f80906c0391",
-  "sizeBytes": 24069486,
+  "versionCode": 13,
+  "versionName": "0.8.0",
+  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.8.0/tacticalvision-0.8.0.apk",
+  "sha256": "400f096dbb77e1070b3807a55acba4999d3cd27deacbc845665236996bf4b0a6",
+  "sizeBytes": 24313478,
   "minSdk": 26,
   "publishedAt": "2026-09-21",
-  "releaseNotes": "Calibrazione rifatta: i quattro angoli si elencano sotto, si scelgono e si spostano con le frecce, con una lente che mostra dove stai mettendo il punto. Il pulsante del montaggio non si nasconde più. Analisi dei video importati a risoluzione maggiore."
+  "releaseNotes": "Manuale di ripresa con illustrazioni, e avviso quando un video è troppo piccolo perché la pallina possa essere riconosciuta. Corretto un difetto che dimezzava sempre la risoluzione di analisi."
 }
