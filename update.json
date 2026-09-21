@@ -1,10 +1,10 @@
 {
-  "versionCode": 6,
-  "versionName": "0.3.1",
-  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.3.1/tacticalvision-0.3.1.apk",
-  "sha256": "f92868c2e8bb43fb4cdbde82464043707603ad296a167a10e7e5c7ceba926332",
+  "versionCode": 7,
+  "versionName": "0.3.2",
+  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.3.2/tacticalvision-0.3.2.apk",
+  "sha256": "19d1e38ae2ecf86fff222f2b27f89d8ec302b12ac35afe6947c10be00c65d59c",
   "sizeBytes": 23864238,
   "minSdk": 26,
   "publishedAt": "2026-09-21",
-  "releaseNotes": "Montaggio automatico: crea una copia del video con i soli scambi, senza i tempi morti. I fotogrammi vengono copiati e non ricodificati, quindi è rapido e non perde qualità."
+  "releaseNotes": "Il sito del progetto ha il suo indirizzo: tacticalvision.bais.info. Nessuna modifica al motore di analisi."
 }

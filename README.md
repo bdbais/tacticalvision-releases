@@ -4,7 +4,7 @@ Canale ufficiale di distribuzione di **TacticalVision**, l'app di analisi video 
 tennistavolo. Qui trovi gli APK firmati e il manifest che l'app legge per accorgersi da sola
 quando esce una versione nuova.
 
-**Sito:** https://tacticalvision.pages.dev
+**Sito:** https://tacticalvision.bais.info
 
 ## Scaricare l'app
 
@@ -23,9 +23,9 @@ scarica l'APK, ne verifica l'impronta SHA-256 e propone l'installazione.
 
 ```json
 {
-  "versionCode": 6,
-  "versionName": "0.3.1",
-  "apkUrl": "https://github.com/.../tacticalvision-0.3.1.apk",
+  "versionCode": 7,
+  "versionName": "0.3.2",
+  "apkUrl": "https://github.com/.../tacticalvision-0.3.2.apk",
   "sha256": "...",
   "sizeBytes": 23752650,
   "minSdk": 26,
@@ -47,7 +47,7 @@ SHA-1    37:6D:2F:A6:72:E0:30:66:A8:E8:B2:1E:73:F5:D5:11:54:92:88:0A
 ```
 
 ```bash
-apksigner verify --print-certs tacticalvision-0.3.1.apk
+apksigner verify --print-certs tacticalvision-0.3.2.apk
 ```
 
 Se l'impronta è diversa, l'APK non viene da qui: non installarlo.
