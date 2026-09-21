@@ -1,10 +1,10 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
-  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.2.0/tacticalvision-0.2.0.apk",
-  "sha256": "42ea4cba1a75eac43cd8f448f1bef1b28a44ce34aaca5831da6bbb85279b0416",
+  "versionCode": 3,
+  "versionName": "0.2.1",
+  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.2.1/tacticalvision-0.2.1.apk",
+  "sha256": "e4a953adccccee4a7c14cc3f4d88a5f60b66b3af125c1c39ea5e015d6c7051cb",
   "sizeBytes": 23847854,
   "minSdk": 26,
   "publishedAt": "2026-09-21",
-  "releaseNotes": "Scouting degli avversari e analisi di video gia' girati. Rilevamento della pallina dal 73% al 96% dei fotogrammi, zero falsi positivi, velocita' misurata fra due rimbalzi con il 7% di scarto."
+  "releaseNotes": "Il sito del progetto passa a tacticalvision.bais.info e il link per le donazioni punta a paypal.me/bellizia. Nessuna modifica al motore di analisi."
 }
