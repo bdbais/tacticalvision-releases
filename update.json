@@ -1,10 +1,10 @@
 {
-  "versionCode": 9,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.4.0/tacticalvision-0.4.0.apk",
-  "sha256": "f9a0d1b6e36fe7cf427e8c11cc5f47456a1e227130cbce6657756390c262dcb7",
-  "sizeBytes": 24053106,
+  "versionCode": 10,
+  "versionName": "0.5.0",
+  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.5.0/tacticalvision-0.5.0.apk",
+  "sha256": "6d37c7a008a869597ada815d382d173e6b29e7864b7310241f512d0f040d63a7",
+  "sizeBytes": 24053102,
   "minSdk": 26,
   "publishedAt": "2026-09-21",
-  "releaseNotes": "Correzione importante: il rilevatore scartava la pallina proprio quando si muove, perché la pretendeva tonda mentre una pallina in gioco lascia una scia. Più i colori del tavolo da gara, nomi e data della partita all'importazione, e una diagnosi quando l'analisi non trova nulla."
+  "releaseNotes": "La Partita come contenitore: giocatori, data e punteggio stanno lì, non nelle impostazioni. Punteggio con le regole vere, segnabile da tastiera Bluetooth o clicker senza toccare il telefono che riprende. Pausa manuale."
 }
