@@ -1,10 +1,10 @@
 {
-  "versionCode": 4,
-  "versionName": "0.2.2",
-  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.2.2/tacticalvision-0.2.2.apk",
-  "sha256": "467c2119b0aaf29308c61d4157911054c751dd3699ce7c091186d6e50a357a1c",
+  "versionCode": 5,
+  "versionName": "0.3.0",
+  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.3.0/tacticalvision-0.3.0.apk",
+  "sha256": "c7f03642e7ccf8d793eb1a4c1d1fc53bf531078ba93dc6393c2713e224ff50e1",
   "sizeBytes": 23847854,
   "minSdk": 26,
   "publishedAt": "2026-09-21",
-  "releaseNotes": "Il sito del progetto risponde su tacticalvision.pages.dev. Il sottodominio tacticalvision.bais.info non era ancora attivo e i link che ci puntavano erano rotti."
+  "releaseNotes": "Creazione guidata degli avversari: cinque domande, ognuna spiega a cosa serve, tutte saltabili. Versione pensata per il primo giro di prove sul campo."
 }
