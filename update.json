@@ -1,10 +1,10 @@
 {
-  "versionCode": 10,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.5.0/tacticalvision-0.5.0.apk",
-  "sha256": "6d37c7a008a869597ada815d382d173e6b29e7864b7310241f512d0f040d63a7",
-  "sizeBytes": 24053102,
+  "versionCode": 11,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.6.0/tacticalvision-0.6.0.apk",
+  "sha256": "72dd0b803571914c15dc827c8c751d6c6da703b817dbbfb3eddda3b30578f0e9",
+  "sizeBytes": 24069486,
   "minSdk": 26,
   "publishedAt": "2026-09-21",
-  "releaseNotes": "La Partita come contenitore: giocatori, data e punteggio stanno lì, non nelle impostazioni. Punteggio con le regole vere, segnabile da tastiera Bluetooth o clicker senza toccare il telefono che riprende. Pausa manuale."
+  "releaseNotes": "Si può rileggere un video con il motore attuale: la calibrazione viene conservata con la sessione e ogni analisi dice con quale versione è stata prodotta."
 }
