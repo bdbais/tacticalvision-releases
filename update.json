@@ -1,10 +1,10 @@
 {
-  "versionCode": 13,
-  "versionName": "0.8.0",
-  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.8.0/tacticalvision-0.8.0.apk",
-  "sha256": "400f096dbb77e1070b3807a55acba4999d3cd27deacbc845665236996bf4b0a6",
-  "sizeBytes": 24313478,
+  "versionCode": 26,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.9.0/tacticalvision-0.9.0.apk",
+  "sha256": "abe21455947a552eeb41dd81121b3b490b7b8616d155f11ce681a14129b2a165",
+  "sizeBytes": 22888594,
   "minSdk": 26,
-  "publishedAt": "2026-09-21",
-  "releaseNotes": "Manuale di ripresa con illustrazioni, e avviso quando un video è troppo piccolo perché la pallina possa essere riconosciuta. Corretto un difetto che dimezzava sempre la risoluzione di analisi."
+  "publishedAt": "2026-09-23",
+  "releaseNotes": "Unisci video: piu' montaggi in un solo video, con cartello iniziale, titolo e didascalie in sovrimpressione e, se vuoi, una cornice.\n\nI video registrati finiscono nella galleria (Movies/TacticalVision) e hanno l'audio. Mentre registri lo schermo resta acceso, e il tasto Indietro salva la sessione invece di perderla.\n\nIl taglio dei soli scambi funziona anche con i video di WhatsApp, di YouTube e in formato MKV.\n\nIl riconoscimento della pallina non scambia piu' mani e corpi dei giocatori per la pallina. Serve il nuovo modello di posa: scaricalo di nuovo dalle impostazioni (9 MB).\n\nCorretti anche: l'esportazione dalle impostazioni che chiudeva l'app, l'anagrafica dei giocatori che poteva perdersi se l'app si chiudeva durante un salvataggio, il servizio nei set a 21 punti."
 }
