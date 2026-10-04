@@ -1,10 +1,10 @@
 {
-  "versionCode": 26,
-  "versionName": "0.9.0",
-  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.9.0/tacticalvision-0.9.0.apk",
-  "sha256": "abe21455947a552eeb41dd81121b3b490b7b8616d155f11ce681a14129b2a165",
-  "sizeBytes": 22888594,
+  "versionCode": 29,
+  "versionName": "0.10.0",
+  "apkUrl": "https://github.com/bdbais/tacticalvision-releases/releases/download/v0.10.0/tacticalvision-0.10.0.apk",
+  "sha256": "fcecdbbe03e477d5b0321c7ffecaeb4b849ef3cacfbf55d56978f35ebe2ea706",
+  "sizeBytes": 22921733,
   "minSdk": 26,
-  "publishedAt": "2026-09-23",
-  "releaseNotes": "Unisci video: piu' montaggi in un solo video, con cartello iniziale, titolo e didascalie in sovrimpressione e, se vuoi, una cornice.\n\nI video registrati finiscono nella galleria (Movies/TacticalVision) e hanno l'audio. Mentre registri lo schermo resta acceso, e il tasto Indietro salva la sessione invece di perderla.\n\nIl taglio dei soli scambi funziona anche con i video di WhatsApp, di YouTube e in formato MKV.\n\nIl riconoscimento della pallina non scambia piu' mani e corpi dei giocatori per la pallina. Serve il nuovo modello di posa: scaricalo di nuovo dalle impostazioni (9 MB).\n\nCorretti anche: l'esportazione dalle impostazioni che chiudeva l'app, l'anagrafica dei giocatori che poteva perdersi se l'app si chiudeva durante un salvataggio, il servizio nei set a 21 punti."
+  "publishedAt": "2026-10-04",
+  "releaseNotes": "La registrazione non si ferma piu': continua se arriva una telefonata, se apri un messaggio, se torni alla home o se lo schermo si spegne. Una notifica mostra che stai registrando: toccala per tornare alla ripresa, oppure usa \"Ferma e salva\" da li'. Durante una chiamata Android spegne il microfono, poi l'audio riprende da solo. Se l'app viene chiusa a forza, la sessione e il video fin li' si recuperano alla riapertura.\n\nNuovo tasto Feedback nella home: segnala un problema o proponi un'idea, e leggi le risposte dello sviluppatore direttamente nell'app. Parte solo quello che scrivi, la versione dell'app e il modello del telefono."
 }
